@@ -4,8 +4,8 @@
   "name" : "Interstitial_Android",
   "note" : "defull",
   "pack" : "",
-  "pe1" : 180,
-  "pe2" : 360,
-  "status" : false,
+  "pe1" : 360000,
+  "pe2" : 360060,
+  "status" : true,
   "testMode" : false
 } ]
